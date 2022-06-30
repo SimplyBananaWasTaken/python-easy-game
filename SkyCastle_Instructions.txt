@@ -1,0 +1,20 @@
+Skycastle Choices:
+
+Commands:
+- [inventory]: open your inventory
+- [achievement]: see your past achievements
+- Press Enter: to continue story
+
+PREFACE:
+   1)
+	- [keep it a secret]
+	- [recruit teammates]
+	- [sell the key]
+	- [use the key]
+	- [go to the library]
+
+ Library)
+	- [the apprentice librarian]
+	- [a shady looking person]
+	- [a professor]
+	- [the great sage]
