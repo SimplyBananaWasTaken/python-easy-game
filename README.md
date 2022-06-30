@@ -1,5 +1,5 @@
 # python-easy-game
-first repo on github
+first repo on github. this is a bad Python game i made when i first learned Python.
 
 just run main.py to start game
 
